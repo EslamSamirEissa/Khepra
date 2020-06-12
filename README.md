@@ -9,11 +9,11 @@ Khepra  is a three-dimensional simulation environment for planning and visualiza
 
 Khepra requires MATLAB R2018a or later
 
-Khepra requires Robotics MATLAB Toolbox by Peter Corke, you can find it [here]
+Khepra requires Robotics MATLAB Toolbox by Peter Corke, you can find it here:  https://petercorke.com/toolboxes/robotics-toolbox/
 
+ 
 ## Usage
 
 Run the file Khepra_main_v0.3 in MATLAB to launch the GUI
 
     
-    [here]: https://petercorke.com/toolboxes/robotics-toolbox/
